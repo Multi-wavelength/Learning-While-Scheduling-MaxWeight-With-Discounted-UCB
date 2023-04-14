@@ -1,7 +1,8 @@
 # Learning While Scheduling in Multi-Server Systems With Unknown Statistics: MaxWeight with Discounted UCB
 
-The code is an implementation of the paper
-[**Learning While Scheduling in Multi-Server Systems With Unknown Statistics: MaxWeight with Discounted UCB**].
+The code is an implementation of the paper [**Learning While Scheduling in Multi-Server Systems With Unknown Statistics: MaxWeight with Discounted UCB**]:
+
+Zixian Yang, R. Srikant, Lei Ying, Learning While Scheduling in Multi-Server Systems With Unknown Statistics: MaxWeight with Discounted UCB, Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, 2023.
 
 We proposed MaxWeight with discounted UCB algorithm, and we compare the proposed algorithm with 4 baselines,
 frame-based MaxWeight [1], DAM.UCB [2], MaxWeight with empirical mean (EM), and MaxWeight with discounted EM.
